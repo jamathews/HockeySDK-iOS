@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12D119A7-10AC-4778-8C42-10838E019957</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HockeySDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0CA27A43414FB33F98B16BE18013A983CABB105E</key>
+		<string>https://github.com/jamathews/HockeySDK-iOS.git</string>
+		<key>C89CD2C0054CCA944685E223F174A6C59B00D5B5</key>
+		<string>https://github.com/jamathews/iSub.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Support/HockeySDK.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0CA27A43414FB33F98B16BE18013A983CABB105E</key>
+		<string>../../..</string>
+		<key>C89CD2C0054CCA944685E223F174A6C59B00D5B5</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jamathews/HockeySDK-iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0CA27A43414FB33F98B16BE18013A983CABB105E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C89CD2C0054CCA944685E223F174A6C59B00D5B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>..</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0CA27A43414FB33F98B16BE18013A983CABB105E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HockeySDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
